@@ -40,7 +40,7 @@ dependencies:
   device_info_plus: ^12.2.0
   sdp_transform: ^0.3.2
   web: ^1.0.0
-  mime_type: ^1.0.1
+  mime_type: ^1.0.0
   path: ^1.9.1
   dart_jsonwebtoken: ^3.3.1
   json_annotation: ^4.9.0
